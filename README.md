@@ -1,5 +1,6 @@
 ![WinDOT Screenshot](https://i.ibb.co/fzRFT6Cq/Screenshot-2026-09-29-184018.png)
 
+<a href="https://www.producthunt.com/products/windot?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-windot" target="_blank" rel="noopener noreferrer"><img alt="Windot  - All in one Utility | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1264651&amp;theme=light&amp;t=1790688501520"></a>
 
 ## WinDOT — Core Features
 
@@ -33,3 +34,5 @@ While WinDOT is open:
 
 > **The main idea:** one tiny floating dot → click or shortcut → instantly access the tool you need.
 > Download : https://github.com/bdxoul/winDOT/releases/tag/windows
+>
+
