@@ -1,4 +1,4 @@
-![WinDOT]([./assets/windot-demo.png](https://github.com/bdxoul/winDOT/blob/main/Screenshot%202026-09-29%20184018.png))
+![WinDOT]([[./assets/windot-demo.png](https://github.com/bdxoul/winDOT/blob/main/Screenshot%202026-09-29%20184018.png)](https://i.ibb.co/fzRFT6Cq/Screenshot-2026-09-29-184018.png))
 
 WinDOT — Core Features
 🌦️ Weather — Current conditions and forecasts
