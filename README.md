@@ -32,3 +32,4 @@ While WinDOT is open:
 - **L** — Quick Links
 
 > **The main idea:** one tiny floating dot → click or shortcut → instantly access the tool you need.
+> Download : https://github.com/bdxoul/winDOT/releases/tag/windows
